@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2446,4 +2445,3 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 =======
 # geared-in
 A React app meant to unite undergrad and alumni members of Mu Delta chapter of Theta Tau
->>>>>>> 2d337aa4fec89672e354e3e3a9c69737c8da363e
